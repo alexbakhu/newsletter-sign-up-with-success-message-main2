@@ -1,0 +1,45 @@
+body {
+  
+background-color: hsl(234, 29%, 20%);
+
+display: flex;
+ 
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
+.main-div {
+
+    display: flex;   
+   align-items: center;
+   justify-content: center;
+   background-color: white ;
+   border-radius: 10px;
+   padding: 10px;
+}
+
+button{
+    height: 50px;
+    width: 300px;
+   background-color: hsl(235, 18%, 26%);  
+  color: whitesmoke ;
+  border-radius: 5px;
+}
+.p1{ 
+
+    color: gray;
+}
+
+
+
+.ss{
+    display: flex;
+}
+input{
+height: 25px;
+ border-radius: 10px;
+width: 300px;
+}
+
+
+    
